@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mobpro 1</string>
+    <string name="bmi_intro">BMI, atau Body Mass Index merupakan cara untuk menentukan apakah berat badanmu ideal atau tidak. Cobalah sekarang!</string>
+    <string name="berat_badan">Berat badan</string>
+    <string name="tinggi_badan">Tinggi badan</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung</string>
+    <string name="bmi_x">BMI: %1$d</string>
+    <string name="kurus">Kurus</string>
+    <string name="ideal">Ideal</string>
+    <string name="gemuk">Gemuk</string>
+    <string name="input_invalid">Tidak boleh kosong.</string>
+</resources>
